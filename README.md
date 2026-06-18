@@ -1,6 +1,6 @@
 # 10Eros_10SNodes_I2V_v3_TiledSampler
 ComfyUI workflow Dockerized via [comfyui-wizard](https://comfy.getrunpod.io).
-Submission: https://comfy.getrunpod.io/dashboard/submissions/kd7ca5s5c5wx53zfj9mtp8d4q588w5jy
+Submission: https://comfy.getrunpod.io/dashboard/submissions/kd7dd06wkz088sr59x0sct1x1188w6zk
 ## Build it yourself
 ```bash
 docker build -t my-comfy-workflow .
